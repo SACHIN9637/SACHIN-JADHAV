@@ -185,15 +185,7 @@ Google Colab • Jupyter Notebook • GitHub
 
 ---
 
-# 📊 GitHub Stats
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SACHIN9637&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SACHIN9637&layout=compact&theme=tokyonight"/>
-
-</p>
 
 ---
 
@@ -205,17 +197,7 @@ Google Colab • Jupyter Notebook • GitHub
 
 </p>
 
----
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=SACHIN9637&theme=algolia&row=2&column=4"/>
-
-</p>
-
----
 
 # 📈 Contribution Graph
 
