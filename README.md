@@ -225,7 +225,7 @@ Google Colab • Jupyter Notebook • GitHub
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="https://linkedin.com/in/sachin-jadhav9637">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
