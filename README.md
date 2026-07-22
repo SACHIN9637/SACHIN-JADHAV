@@ -5,20 +5,14 @@
 ### AI/ML Engineer • Full Stack Developer • Computer Engineering Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=750&lines=AI%2FML+Engineer;Full+Stack+Developer;Computer+Engineering+Student;Generative+AI+Enthusiast;Open+Source+Contributor;IEEE+Research+Author" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AI%2FML+Engineer;Full+Stack+Developer;Computer+Engineering+Student;Generative+AI+Enthusiast;Open+Source+Contributor;IEEE+Research+Author" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SACHIN9637&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
-  <a href="https://linkedin.com/in/sachin-jadhav9637">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:sj6761811@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/SACHIN9637">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SACHIN9637&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:sj6761811@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/SACHIN9637"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 </p>
 
 </div>
@@ -27,249 +21,178 @@
 
 # 👋 About Me
 
-🎓 **B.Tech Computer Engineering Student** at **MIT Academy of Engineering (MITAOE), Pune**
-
-💼 Passionate **AI/ML Engineer** and **Full Stack Developer** with experience in building intelligent web applications using Machine Learning, Deep Learning, Computer Vision, and Generative AI.
-
-🌱 Currently exploring **Large Language Models (LLMs)**, **Retrieval-Augmented Generation (RAG)**, **Computer Vision**, **YOLOv8**, and **Generative AI**.
-
-🚀 Interested in **Machine Learning**, **Deep Learning**, **Full Stack Development**, **Computer Vision**, **Data Science**, and **Open Source**.
-
-🏆 **Vice President** – Mozilla Campus Club, MITAOE
-
-📄 **IEEE Research Author** – *EduGen: A Multi-Model Generative AI Framework for Dynamic Educational Resource Synthesis*
-
-💡 Built AI-powered applications in **Agriculture**, **Healthcare**, and **Drone Technology**.
-
-🤝 Open to **AI/ML Internships**, **Software Development Roles**, **Research Collaborations**, and **Open Source Contributions**.
-
----
-
-# 📫 Connect With Me
-
-📧 **Email:** **sj6761811@gmail.com**
-
-💼 **LinkedIn:**  
-https://linkedin.com/in/sachin-jadhav9637
-
-💻 **GitHub:**  
-https://github.com/SACHIN9637
+| 🔑 Field | 📄 Details |
+|----------|------------|
+| 👤 **Name** | **Sachin Ganesh Jadhav** |
+| 💼 **Role** | AI/ML Engineer · Full Stack Developer |
+| 🎓 **University** | MIT Academy of Engineering, Pune |
+| 📊 **CGPA** | **8.10 / 10** |
+| 📍 **Location** | Nanded, Maharashtra, India 🇮🇳 |
+| 🧠 **Interests** | Machine Learning · Deep Learning · Computer Vision · Generative AI |
+| 🔭 **Currently** | Exploring LLMs, RAG Systems, YOLOv8 & AI Applications |
+| 🤝 **Open To** | Software Development · AI/ML Internships · Research Collaborations |
+| 🏆 **Achievement** | IEEE Research Author · Mozilla Club Vice President |
+| 🎯 **Research** | Generative AI · Smart Agriculture · Medical AI |
+| 📫 **Email** | **sj6761811@gmail.com** |
+| 💬 **Motto** | *"Turning Ideas into Intelligent Solutions."* 🚀 |
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🧠 AI / Machine Learning
+## 🧠 AI / ML & Deep Learning
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
 </p>
 
-<p>
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge"/>
-</p>
-
-Machine Learning • Deep Learning • Computer Vision • NLP
+Machine Learning • Deep Learning • Scikit-Learn • OpenCV • YOLOv8 • XGBoost • Keras • CNN • Computer Vision
 
 ---
 
-## 🤖 Generative AI
+## 🤖 Generative AI & NLP
 
-<p>
-
-<img src="https://img.shields.io/badge/Transformers-FFD43B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/HuggingFace-FFCC00?style=for-the-badge&logo=huggingface&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/BERT-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GPT-10A37F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/GANs-purple?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/VAEs-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Diffusion-orange?style=for-the-badge"/>
-
-</p>
+Transformers • GPT • BERT • GANs • VAEs • Diffusion Models • Hugging Face • LangChain • NLP
 
 ---
 
-## 🌐 Web Development
+## 🌐 Full Stack Development
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,js,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,js"/>
 </p>
+
+React.js • Flask • Express.js • REST APIs • Bootstrap
 
 ---
 
-## 🗄️ Database
+## 📊 Data Science
+
+NumPy • Pandas • Matplotlib • Seaborn • Data Analysis • Feature Engineering
+
+---
+
+## 🗄️ Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
 </p>
 
+MySQL • Firebase
+
 ---
 
-## 🛠️ Tools
+## ☁️ Tools & Platforms
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
 </p>
 
-Google Colab • Jupyter Notebook
+Google Colab • Jupyter Notebook • GitHub
+
+---
+
+## ⚙️ Programming Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css"/>
+</p>
 
 ---
 
 # 🚀 Featured Projects
 
-## 🌾 Maharashtra Bhoomi – Crop Yield Prediction System
-
-🚜 AI-powered crop yield prediction system using climate and soil parameters.
-
-### Tech Stack
-
-- Python
-- React
-- Django
-- XGBoost
-- Machine Learning
-
-🔗 **Repository**
-
-https://github.com/SACHIN9637/MaharashtraBhoomi-Crop-Yield-Predictor
+### 🌾 Maharashtra Bhoomi – Crop Yield Prediction
+- Machine Learning-based crop yield prediction system
+- Django + React + Python
+- XGBoost Regression
+- Smart recommendations for farmers
 
 ---
 
-## 📚 EduGen
+### 📚 EduGen
+**Multi-Model Generative AI Framework**
 
-### Multi-Model Generative AI Framework
-
-✨ Features
-
-- AI Notes Generator
-- MCQ Generator
-- Diagram Generator
-- Personalized Learning
-- STEM Visual Generation
-
-### Technologies
-
+- Personalized Notes
+- AI MCQ Generator
+- Diagram Generation
+- Diffusion Models
 - Transformers
 - GANs
 - VAEs
-- Diffusion Models
 
 ---
 
-## 🧠 Alzheimer's Disease Detection
-
-Deep Learning model for Alzheimer's disease prediction using MRI brain scans and clinical data.
-
-### Technology
+### 🧠 Alzheimer's Disease Detection
 
 - TensorFlow
 - MobileNetV2
 - CNN
-- MLP
-
-✅ Accuracy: **95%**
+- Medical Imaging
+- 95% Accuracy
 
 ---
 
-## 🚁 Drone Flight Safety Prediction
+### 🚁 Drone Flight Safety Prediction
 
-Machine Learning system to predict drone flight safety using weather conditions.
-
-### Technology
-
-- Python
-- Flask
-- React
+- Weather-based Flight Prediction
 - Random Forest
 - Logistic Regression
+- React + Flask
 
 ---
 
 # 💼 Experience
 
 ## 🚀 AI/ML & Full Stack Development Intern
+**Anantam Aerials and Robotics**
 
-### Anantam Aerials and Robotics
-
-📅 Feb 2026 – Jun 2026
-
-- Drone Flight Safety Prediction
+- Drone Flight Safety
 - Crop Health Monitoring
 - AI Drone Surveillance
 - Full Stack Development
-- REST API Development
 - Machine Learning Integration
 
 ---
 
 ## 🤖 AI/ML Virtual Internship
 
-### India Edu Program
-
 - Machine Learning
-- Feature Engineering
 - Data Preprocessing
+- Feature Engineering
 - Model Evaluation
 
 ---
 
 ## 📊 Data Analytics Internship
 
-- Workflow Automation
 - Data Cleaning
-- Data Visualization
+- Workflow Automation
+- Visualization
 - Analytics
 
 ---
 
 # 🏆 Leadership
 
-## Vice President
-
-### Mozilla Campus Club, MITAOE
+### Vice President
+**Mozilla Campus Club, MITAOE**
 
 - Organized 20+ Technical Events
-- Conducted GitHub Workshops
 - Mentored Students
-- Promoted Open Source Culture
-
----
-
-# 🏅 Achievements
-
-🥇 Winner — Poster Presentation (Visiotech 2025)
-
-🥇 Winner — Technical Innovation Competition
-
-📄 IEEE Research Publication
-
-👨‍💼 Vice President — Mozilla Campus Club
-
----
-
-# 📜 Research Publication
-
-### EduGen: A Multi-Model Generative AI Framework for Dynamic Educational Resource Synthesis
-
-📄 Published in **IEEE CTCON 2026**
+- Conducted GitHub Workshops
+- Promoted Open Source
 
 ---
 
 # 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SACHIN9637&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SACHIN9637&layout=compact&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SACHIN9637&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SACHIN9637&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -277,7 +200,9 @@ Machine Learning system to predict drone flight safety using weather conditions.
 # 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SACHIN9637&theme=tokyonight&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SACHIN9637&theme=tokyonight"/>
+
 </p>
 
 ---
@@ -285,7 +210,9 @@ Machine Learning system to predict drone flight safety using weather conditions.
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=SACHIN9637&theme=algolia&column=4&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=SACHIN9637&theme=algolia&row=2&column=4"/>
+
 </p>
 
 ---
@@ -293,34 +220,50 @@ Machine Learning system to predict drone flight safety using weather conditions.
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SACHIN9637&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SACHIN9637&theme=react-dark"/>
+
 </p>
 
 ---
 
-# 💻 Coding Profiles
+# 🎓 Certifications & Achievements
+
+| 🏅 Achievement | 🏢 Organization | 📅 Status |
+|---------------|----------------|-----------|
+| 📄 IEEE Research Publication | CTCON 2026 | ✅ Published |
+| 🥇 Poster Presentation Winner | Visiotech 2025 | 🏆 Winner |
+| 🥇 Technical Innovation Competition | MGM College of Engineering | 🏆 Winner |
+| 🚀 Mozilla Club Vice President | MITAOE | ✅ Leadership |
+| 💻 AI/ML Internship | India Edu Program | ✅ Completed |
+
+---
+
+# 🌐 Connect With Me
 
 <p align="center">
 
-<a href="https://github.com/SACHIN9637">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://linkedin.com/in/sachin-jadhav9637">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:sj6761811@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SACHIN9637">
+<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Quote
+<p align="center">
 
-> **"Code. Learn. Build. Innovate. Repeat." 🚀**
+<img src="https://komarev.com/ghpvc/?username=SACHIN9637&label=Profile%20Views&color=blue&style=flat"/>
+
+</p>
 
 ---
 
@@ -328,8 +271,6 @@ Machine Learning system to predict drone flight safety using weather conditions.
 
 ### ⭐ Thanks for visiting my profile!
 
-If you like my work, consider ⭐ starring my repositories and following my GitHub profile.
-
-<img src="https://komarev.com/ghpvc/?username=SACHIN9637&label=Visitors&color=blue&style=flat"/>
+*"Code. Learn. Innovate. Inspire."* 🚀
 
 </div>
