@@ -63,7 +63,7 @@
 <img src="https://cdn.simpleicons.org/keras/D00000" height="45"/>
 </p>
 
-`Python` • `TensorFlow` • `PyTorch` • `Scikit-Learn` • `OpenCV` • `Keras` • `YOLOv8` • `XGBoost` • `Machine Learning` • `Deep Learning`
+Python` • `TensorFlow` • `PyTorch` • `Scikit-Learn` • `OpenCV` • `Keras` • `YOLOv8` • `XGBoost` • `Machine Learning` • `Deep Learning`
 
 ---
 
@@ -75,7 +75,7 @@
 <img src="https://skillicons.dev/icons?i=python" height="45"/>
 </p>
 
-`Transformers` • `GPT` • `BERT` • `Hugging Face` • `LangChain` • `GANs` • `VAEs` • `Diffusion Models` • `NLP`
+Transformers` • `GPT` • `BERT` • `Hugging Face` • `LangChain` • `GANs` • `VAEs` • `Diffusion Models` • `NLP`
 
 ---
 
