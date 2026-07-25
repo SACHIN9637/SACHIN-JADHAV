@@ -150,86 +150,153 @@
 
 # 🚀 Featured Projects
 
-### 🌾 Maharashtra Bhoomi – Crop Yield Prediction
-- Machine Learning-based crop yield prediction system
-- Django + React + Python
-- XGBoost Regression
-- Smart recommendations for farmers
+<table>
+<tr>
+<td width="50%">
 
----
+### 🌾 Maharashtra Bhoomi
+**AI-Powered Crop Yield Prediction Platform**
+
+🔹 Machine Learning-based crop yield prediction
+
+🔹 Built with **React, Django & Python**
+
+🔹 **XGBoost Regression** for high-accuracy predictions
+
+🔹 Smart farming recommendations for improved productivity
+
+**Tech Stack**
+
+`React` `Django` `Python` `XGBoost` `Machine Learning`
+
+</td>
+
+<td width="50%">
 
 ### 📚 EduGen
 **Multi-Model Generative AI Framework**
 
-- Personalized Notes
-- AI MCQ Generator
-- Diagram Generation
-- Diffusion Models
-- Transformers
-- GANs
-- VAEs
+🔹 AI-powered personalized learning platform
 
----
+🔹 Intelligent Notes Generator
+
+🔹 Automatic MCQ Generator
+
+🔹 AI Diagram Generation
+
+🔹 Multi-model architecture using **Transformers, GANs, VAEs & Diffusion Models**
+
+**Tech Stack**
+
+`Python` `Transformers` `GANs` `VAEs` `Diffusion Models`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 🧠 Alzheimer's Disease Detection
 
-- TensorFlow
-- MobileNetV2
-- CNN
-- Medical Imaging
-- 95% Accuracy
+🔹 Deep Learning model for early Alzheimer's detection
 
----
+🔹 Built using **TensorFlow & MobileNetV2**
+
+🔹 CNN-based medical image classification
+
+🔹 Achieved **95% Prediction Accuracy**
+
+**Tech Stack**
+
+`TensorFlow` `CNN` `MobileNetV2` `OpenCV`
+
+</td>
+
+<td width="50%">
 
 ### 🚁 Drone Flight Safety Prediction
 
-- Weather-based Flight Prediction
-- Random Forest
-- Logistic Regression
-- React + Flask
+🔹 Weather-aware drone safety prediction system
+
+🔹 Flight risk analysis using Machine Learning
+
+🔹 Interactive dashboard with **React & Flask**
+
+🔹 Supports safer autonomous drone operations
+
+**Tech Stack**
+
+`React` `Flask` `Random Forest` `Logistic Regression`
+
+</td>
+</tr>
+</table>
 
 ---
 
 # 💼 Experience
 
 ## 🚀 AI/ML & Full Stack Development Intern
-**Anantam Aerials and Robotics**
+### Anantam Aerials & Robotics
 
-- Drone Flight Safety
-- Crop Health Monitoring
-- AI Drone Surveillance
-- Full Stack Development
-- Machine Learning Integration
+- 🤖 Developed AI-powered drone flight safety solutions
+- 🌱 Worked on crop health monitoring using Machine Learning
+- 🚁 Contributed to AI-based drone surveillance systems
+- 💻 Built full-stack applications using React & Flask
+- ⚙️ Integrated ML models into production-ready applications
+
+**Skills:** `Python` `React` `Flask` `Machine Learning` `Computer Vision`
 
 ---
 
 ## 🤖 AI/ML Virtual Internship
 
-- Machine Learning
-- Data Preprocessing
-- Feature Engineering
-- Model Evaluation
+- Developed Machine Learning models for real-world datasets
+- Performed data preprocessing and feature engineering
+- Trained and evaluated predictive models
+- Improved model performance through optimization
+
+**Skills:** `Python` `Scikit-Learn` `Pandas` `NumPy`
 
 ---
 
-## 📊 Data Analytics Internship
+## 📊 Data Analytics Intern
 
-- Data Cleaning
-- Workflow Automation
-- Visualization
-- Analytics
+- Cleaned and transformed large datasets
+- Automated reporting workflows
+- Built interactive dashboards and visualizations
+- Generated business insights using analytics
+
+**Skills:** `Excel` `Python` `Power BI` `Data Analytics`
 
 ---
 
-# 🏆 Leadership
+# 🏆 Leadership & Community
 
-### Vice President
-**Mozilla Campus Club, MITAOE**
+## 🌟 Vice President
+### Mozilla Campus Club, MITAOE
 
-- Organized 20+ Technical Events
-- Mentored Students
-- Conducted GitHub Workshops
-- Promoted Open Source
+- 🎯 Led a team in organizing **20+ technical events**
+- 👨‍🏫 Mentored aspiring developers and AI enthusiasts
+- 🐙 Conducted Git & GitHub workshops
+- 🌍 Promoted Open Source contributions and community engagement
+- 🤝 Coordinated hackathons, coding events, and technical sessions
+
+---
+
+## 📈 Highlights
+
+🏆 IEEE Research Author
+
+💼 AI/ML Engineer & Full Stack Developer
+
+🚀 Open Source Contributor
+
+🤖 Generative AI Enthusiast
+
+🌱 Passionate about Machine Learning, Deep Learning & Computer Vision
+
+📚 Continuous Learner and Technology Explorer
 
 ---
 
