@@ -44,64 +44,97 @@
 
 ## 🧠 AI / ML & Deep Learning
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/keras/D00000" height="45"/>
 </p>
 
-Machine Learning • Deep Learning • Scikit-Learn • OpenCV • YOLOv8 • XGBoost • Keras • CNN • Computer Vision
+`Python` • `TensorFlow` • `PyTorch` • `Scikit-Learn` • `OpenCV` • `Keras` • `YOLOv8` • `XGBoost` • `Machine Learning` • `Deep Learning`
 
 ---
 
 ## 🤖 Generative AI & NLP
 
-Transformers • GPT • BERT • GANs • VAEs • Diffusion Models • Hugging Face • LangChain • NLP
+<p align="left">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/openai/412991" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+</p>
+
+`Transformers` • `GPT` • `BERT` • `Hugging Face` • `LangChain` • `GANs` • `VAEs` • `Diffusion Models` • `NLP`
 
 ---
 
 ## 🌐 Full Stack Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,flask,html,css,js"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
 </p>
 
-React.js • Flask • Express.js • REST APIs • Bootstrap
+`React.js` • `Node.js` • `Express.js` • `Flask` • `HTML5` • `CSS3` • `JavaScript` • `Bootstrap`
 
 ---
 
 ## 📊 Data Science
 
-NumPy • Pandas • Matplotlib • Seaborn • Data Analysis • Feature Engineering
+<p align="left">
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="45"/>
+</p>
+
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Data Analysis` • `Feature Engineering`
 
 ---
 
 ## 🗄️ Databases
 
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
 </p>
 
-MySQL • Firebase
+`MySQL` • `Firebase`
 
 ---
 
 ## ☁️ Tools & Platforms
 
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
 </p>
 
-Google Colab • Jupyter Notebook • GitHub
+`Git` • `GitHub` • `VS Code` • `Postman` • `Google Colab` • `Jupyter Notebook`
 
 ---
 
 ## ⚙️ Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,html,css"/>
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
 </p>
 
----
-
+`Python` • `C++` • `C` • `Java` • `JavaScript` • `HTML5` • `CSS3`
 # 🚀 Featured Projects
 
 ### 🌾 Maharashtra Bhoomi – Crop Yield Prediction
