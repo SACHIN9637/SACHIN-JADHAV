@@ -106,41 +106,86 @@ Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook
 
 # 🚀 Featured Projects
 
-### 🌾 Maharashtra Bhoomi
-
-Crop Yield Prediction using Machine Learning, React, Django & XGBoost.
+### 🌾 Maharashtra Bhoomi – Crop Yield Prediction
+- Machine Learning-based crop yield prediction system
+- Django + React + Python
+- XGBoost Regression
+- Smart recommendations for farmers
 
 ---
 
 ### 📚 EduGen
+**Multi-Model Generative AI Framework**
 
-Multi-model Generative AI Framework using VAEs, GANs, Transformers and Diffusion Models.
+- Personalized Notes
+- AI MCQ Generator
+- Diagram Generation
+- Diffusion Models
+- Transformers
+- GANs
+- VAEs
 
 ---
 
 ### 🧠 Alzheimer's Disease Detection
 
-Deep Learning model built with TensorFlow, CNN & MobileNetV2.
+- TensorFlow
+- MobileNetV2
+- CNN
+- Medical Imaging
+- 95% Accuracy
 
 ---
 
 ### 🚁 Drone Flight Safety Prediction
 
-Weather-aware Drone Flight Safety Prediction using Machine Learning.
+- Weather-based Flight Prediction
+- Random Forest
+- Logistic Regression
+- React + Flask
 
 ---
 
 # 💼 Experience
 
-- AI/ML & Full Stack Development Intern — Anantam Aerials & Robotics
-- AI/ML Virtual Intern — India Edu Program
-- Data Analytics Intern
+## 🚀 AI/ML & Full Stack Development Intern
+**Anantam Aerials and Robotics**
+
+- Drone Flight Safety
+- Crop Health Monitoring
+- AI Drone Surveillance
+- Full Stack Development
+- Machine Learning Integration
+
+---
+
+## 🤖 AI/ML Virtual Internship
+
+- Machine Learning
+- Data Preprocessing
+- Feature Engineering
+- Model Evaluation
+
+---
+
+## 📊 Data Analytics Internship
+
+- Data Cleaning
+- Workflow Automation
+- Visualization
+- Analytics
 
 ---
 
 # 🏆 Leadership
 
-**Vice President — Mozilla Campus Club, MITAOE**
+### Vice President
+**Mozilla Campus Club, MITAOE**
+
+- Organized 20+ Technical Events
+- Mentored Students
+- Conducted GitHub Workshops
+- Promoted Open Source
 
 ---
 
