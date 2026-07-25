@@ -52,55 +52,99 @@
 
 # 🛠️ Tech Stack
 
-## 🤖 AI / Machine Learning
+## 🧠 AI / ML & Deep Learning
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![YOLO](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/scikitlearn/F7931E" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/keras/D00000" height="45"/>
+</p>
 
----
-
-## 🤖 Generative AI
-
-- Transformers
-- GPT
-- BERT
-- Hugging Face
-- LangChain
-- GANs
-- VAEs
-- Diffusion Models
+`Python` • `TensorFlow` • `PyTorch` • `Scikit-Learn` • `OpenCV` • `Keras` • `YOLOv8` • `XGBoost` • `Machine Learning` • `Deep Learning`
 
 ---
 
-## 🌐 Full Stack
+## 🤖 Generative AI & NLP
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
-![Flask](https://img.shields.io/badge/Flask-white?style=for-the-badge&logo=flask)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-purple?style=for-the-badge&logo=bootstrap)
+<p align="left">
+<img src="https://cdn.simpleicons.org/huggingface/FFD21E" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/openai/412991" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=python" height="45"/>
+</p>
+
+`Transformers` • `GPT` • `BERT` • `Hugging Face` • `LangChain` • `GANs` • `VAEs` • `Diffusion Models` • `NLP`
+
+---
+
+## 🌐 Full Stack Development
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=nodejs" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=express" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=bootstrap" height="45"/>
+</p>
+
+`React.js` • `Node.js` • `Express.js` • `Flask` • `HTML5` • `CSS3` • `JavaScript` • `Bootstrap`
+
+---
+
+## 📊 Data Science
+
+<p align="left">
+<img src="https://cdn.simpleicons.org/numpy/013243" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/pandas/150458" height="45"/>&nbsp;
+<img src="https://cdn.simpleicons.org/matplotlib/11557C" height="45"/>
+</p>
+
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Data Analysis` • `Feature Engineering`
 
 ---
 
 ## 🗄️ Databases
 
-- MySQL
-- Firebase
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=firebase" height="45"/>
+</p>
+
+`MySQL` • `Firebase`
 
 ---
 
-## ⚙️ Tools
+## ☁️ Tools & Platforms
 
-Git • GitHub • VS Code • Postman • Google Colab • Jupyter Notebook
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=github" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=postman" height="45"/>
+</p>
+
+`Git` • `GitHub` • `VS Code` • `Postman` • `Google Colab` • `Jupyter Notebook`
+
+---
+
+## ⚙️ Programming Languages
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=cpp" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=c" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=java" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=html" height="45"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" height="45"/>
+</p>
+
+`Python` • `C++` • `C` • `Java` • `JavaScript` • `HTML5` • `CSS3`
 
 ---
 
