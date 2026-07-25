@@ -300,6 +300,7 @@
 
 ---
 
+<!--
 # 📊 GitHub Statistics
 
 <p align="center">
@@ -309,6 +310,8 @@
 </p>
 
 ---
+-->
+
 
 # 🔥 GitHub Streak
 
