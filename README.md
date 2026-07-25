@@ -30,21 +30,23 @@
 
 ---
 
-# 👨‍💻 About Me
+<h2 align="center">👨‍💻 About Me</h2>
 
-🎓 **B.Tech Computer Engineering Student** at **MIT Academy of Engineering (MITAOE), Pune**
+<div align="center">
 
-💼 AI/ML Engineer & Full Stack Developer
+| | |
+|:---|:---|
+| 🎓 | **B.Tech Computer Engineering Student** at **MIT Academy of Engineering (MITAOE), Pune** |
+| 💼 | **AI/ML Engineer & Full Stack Developer** |
+| 🌱 | Exploring **LLMs, RAG, Computer Vision, YOLOv8 & Generative AI** |
+| 🚀 | Passionate about **Machine Learning, Deep Learning, Full Stack Development, Data Science & Open Source** |
+| 🏆 | **Vice President — Mozilla Campus Club** |
+| 📄 | **IEEE Research Author** |
+| 🤝 | Open to **AI/ML Internships, SDE Roles & Research Collaborations** |
 
-🌱 Currently exploring **LLMs, RAG, Computer Vision, YOLOv8 & Generative AI**
+</div>
 
-🚀 Passionate about Machine Learning, Deep Learning, Full Stack Development, Data Science and Open Source
-
-🏆 Vice President — Mozilla Campus Club
-
-📄 IEEE Research Author
-
-🤝 Open to AI/ML & Software Development opportunities
+---
 
 ---
 
