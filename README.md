@@ -30,22 +30,22 @@
 
 ---
 
-<h2 align="center">👨‍💻 About Me</h2>
+# 👋 About Me
 
-<div align="center">
-
-| | |
-|:---|:---|
-| 🎓 | **B.Tech Computer Engineering Student** at **MIT Academy of Engineering (MITAOE), Pune** |
-| 💼 | **AI/ML Engineer & Full Stack Developer** |
-| 🌱 | Exploring **LLMs, RAG, Computer Vision, YOLOv8 & Generative AI** |
-| 🚀 | Passionate about **Machine Learning, Deep Learning, Full Stack Development, Data Science & Open Source** |
-| 🏆 | **Vice President — Mozilla Campus Club** |
-| 📄 | **IEEE Research Author** |
-| 🤝 | Open to **AI/ML Internships, SDE Roles & Research Collaborations** |
-
-</div>
-
+| 🔑 Field | 📄 Details |
+|----------|------------|
+| 👤 **Name** | **Sachin Ganesh Jadhav** |
+| 💼 **Role** | AI/ML Engineer · Full Stack Developer |
+| 🎓 **University** | MIT Academy of Engineering, Pune |
+| 📊 **CGPA** | **8.10 / 10** |
+| 📍 **Location** | Nanded, Maharashtra, India 🇮🇳 |
+| 🧠 **Interests** | Machine Learning · Deep Learning · Computer Vision · Generative AI |
+| 🔭 **Currently** | Exploring LLMs, RAG Systems, YOLOv8 & AI Applications |
+| 🤝 **Open To** | Software Development · AI/ML Internships · Research Collaborations |
+| 🏆 **Achievement** | IEEE Research Author · Mozilla Club Vice President |
+| 🎯 **Research** | Generative AI · Smart Agriculture · Medical AI |
+| 📫 **Email** | **sj6761811@gmail.com** |
+| 💬 **Motto** | *"Turning Ideas into Intelligent Solutions."* 🚀 |
 ---
 
 ---
